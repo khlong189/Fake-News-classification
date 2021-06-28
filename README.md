@@ -1,2 +1,2 @@
 # Mini-ML-personal-project
-NBA scoring prediction using linear regression
+> Fake news classification using KNN, Decision Tree, Random Forest
